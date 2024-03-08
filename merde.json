@@ -1,0 +1,47 @@
+{
+    "1160261694417805492": {
+        "welcome_channel_id": 1160264966255947916,
+        "welcome_role_id": 1160263904488869928,
+        "welcome_message": "bienvenue {user} Nous sommes ravis de t'accueillir"
+    },
+    "1160272783373238342": {
+        "welcome_channel_id": 1160272784157573182,
+        "welcome_role_id": 1160272783402610811,
+        "welcome_message": "{user} Bienvenue sur **Atalia RP**"
+    },
+    "1091660772905594890": {
+        "welcome_channel_id": 1154420619589464196,
+        "welcome_role_id": 1094927386790871040,
+        "welcome_message": "Bienvenue  {user}  ! Profite du support de Zark bot, l'incroyable bot, 100% gratuit.\nMembres"
+    },
+    "1163550268722528288": {
+        "welcome_channel_id": 1163874579631063170,
+        "welcome_role_id": 1163874576074281101,
+        "welcome_message": "Bienvenue  {user} au Studio Ghibli Gang ! \ud83c\udf1f\n\nUn monde de magie et d'aventures vous attend. Rejoignez-nous pour discuter et de  partager votre passion. \ud83c\udf88"
+    },
+    "1164563530234724362": {
+        "welcome_channel_id": 1164566853629259846,
+        "welcome_role_id": null,
+        "welcome_message": "slt bonne arriver a toi  {user}  passe un bon moment dans mon serveur !!"
+    },
+    "1145331612490399837": {
+        "welcome_channel_id": 1165654032715616337,
+        "welcome_role_id": null,
+        "welcome_message": "wesh"
+    },
+    "1173973568359518268": {
+        "welcome_channel_id": 1174069620634832906,
+        "welcome_role_id": 1174070271972491374,
+        "welcome_message": "bienvenue {user} sur notre communaut\u00e9!"
+    },
+    "1178382041742577778": {
+        "welcome_channel_id": 1178408785430200380,
+        "welcome_role_id": 1178402905158582534,
+        "welcome_message": "Bonjour"
+    },
+    "1191907576347115581": {
+        "welcome_channel_id": 1191908393875689484,
+        "welcome_role_id": null,
+        "welcome_message": "{user} Bienvenue, nous te souhaitons un bon s\u00e9jour chez nous."
+    }
+}

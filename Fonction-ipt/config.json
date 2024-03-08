@@ -1,0 +1,108 @@
+{
+    "1143497602093039756": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1091660772905594890": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1125759306759946431": {
+        "antilink_enabled": true,
+        "allowed_links": [
+            "https://discord.gg/HY2gZcCg"
+        ]
+    },
+    "1010244503770251266": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1145399304824041622": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1145476892930093117": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1145397361074507878": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1145772639969869865": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1145270853198692434": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1146735448526434376": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1146871089885093940": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1147144454151610488": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1128771239083790346": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1090257666481336401": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1143114530642198558": {
+        "antilink_enabled": true,
+        "allowed_links": [
+            "discord.gg/lks"
+        ]
+    },
+    "1147964035803906059": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1158062205238005840": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1158026285298241639": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1160272783373238342": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "971848631634243614": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1106566605464420463": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1145331612490399837": {
+        "antilink_enabled": true,
+        "allowed_links": [
+            "https://chat.openai.com/c/1c3dd7c5-b070-4215-b13e-586790d1def4"
+        ]
+    },
+    "1173973568359518268": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    },
+    "1155483048868065310": {
+        "antilink_enabled": false,
+        "allowed_links": []
+    },
+    "1191907576347115581": {
+        "antilink_enabled": true,
+        "allowed_links": []
+    }
+}
