@@ -522,7 +522,7 @@ async def on_command_error(ctx, error):
 
 
 
-bot.run('MTA5MTAyMzMzMTE5MDM4NjczMA.GIwskm.Q8P5cbTbeDUo0vkxQ0339H79_VJeVzrqR_z5gY')
+bot.run('MTA5MTAyMzMzMTE5MDM4NjczMA.Gvm5XV.4CdOMgPWIR7jVb2g4tmFbj02p4Ko4_rH30Aj34')
 
 
 
